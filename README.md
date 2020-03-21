@@ -12,7 +12,7 @@
 
 #### 安装教程
 
-1. go get -u  github.com/tietang/dbx 
+1. go get -u  github.com/ybinhome/dbx 
  
 
 #### 使用说明
